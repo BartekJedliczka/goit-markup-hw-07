@@ -771,12 +771,6 @@
   margin-right: 8px;
 }
 
-.visually-hiden {
-  -moz-appearance: none;
-  -webkit-appearance: none;
-  appearance: none;
-}
-
 .modal-form-policy:checked + .modal-form-policy-text:before {
   background-color: var(--blue-color);
   border: none;

@@ -94,4 +94,10 @@ img {
   --grey-bgc: #f5f4fa;
   --icon-color: #afb1b8;
 }
+
+.visually-hidden {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
 /*# sourceMappingURL=main.css.map */
