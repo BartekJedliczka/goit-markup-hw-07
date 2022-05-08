@@ -18,7 +18,12 @@
     padding-bottom: 200px;
   }
 
-  .our-team & {
+  .strengths-list & {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .team & {
     display: flex;
     flex-direction: column;
   }
